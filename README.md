@@ -1,4 +1,4 @@
-# 🏢 HR Management System — Backend
+# 🏢 HR Management System
 
 ---
 
